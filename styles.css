@@ -1,0 +1,187 @@
+body{
+	background:#fff;
+	margin:0;
+	padding:0;
+	font-family: 'Open Sans', sans-serif;
+	width:100%;
+}
+
+a {
+    color: #9d426b;
+    text-decoration: none;
+    -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
+}
+
+.background{
+	background:#6B8E23!important;
+	min-height:600px;
+}
+
+.kctex {
+	margin-top:100px!important;
+}
+.resp{
+	margin-left:-20px!important;
+	margin-top:10px;
+	border-radius:10px;
+}
+.bar{
+	margin-top:10px!important;
+}
+.btn{
+	margin:0px 5px 0px 10px;
+	background:#B22222;
+}
+.another{
+	margin-top:50px;
+}
+.donk{
+	border-right:none;
+}
+
+.another h2{
+	font-size:39px!important;
+	color:#fff;
+	margin:0px;
+	text-align:center;
+	
+}
+.modal-body{
+	border-top:none!important;
+}
+@media (min-width:300px){
+	.another{
+		width:100%;
+		
+	}
+	.another h2,h4{
+		font-size:18px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-md-12"] {
+        width: 100%;
+    }
+}
+.another h4{
+	color:white;
+	text-align:center;
+}
+.mycon{
+	margin-top:130px!important;
+}
+label{
+	text-align:left!important;
+	margin-bottom:none;
+}
+.gig{
+	margin-top:30px;
+}
+.don{
+	margin-top:30px;
+}
+
+.mark{
+	margin-left:0px;
+	background:none;
+}
+
+.content h2{
+	font-size:45px;
+	margin-right:0px!important;
+	
+}
+
+
+
+
+
+@media only screen and (max-width: 1020px){
+	.content h2{
+		font-size:25px!important;
+	}
+	
+}
+@media only screen and (max-width: 1020px){
+    .content p{
+		font-size:17px!important;
+	}
+}
+
+.contentimg p{
+	text-align:center;
+	line-height:20px;
+	font-size:16px;
+	margin-left:-10px!important;
+	font-weight:none;
+}
+.well{
+	margin-bottom:0px;
+}
+.well h1{
+	font-size:3em;
+	margin-top:50px;
+}
+@media only screen (max-width:1024px){
+	.well h1{
+		font-size:20px!important;
+		
+	}
+
+}
+
+.jumbotron{
+	margin-top:300px;
+	background:#000000;
+}
+.jumbotron h2 p{
+	color:#ff;
+}
+
+.advert{
+	margin-top:0px!important;
+}
+
+
+@media only screen and (min-width: 768px) {
+    /* For mobile phones: */
+    .contentimg p {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+	.another h2,h4{
+		width:100%;
+	}
+	
+}
+	.mike{
+		border:1px solid black;
+	}
+	
+	
+	.cont{
+		margin-top:20px;
+	}
+.cont li,a{
+		list-style:none;
+		margin:5px 0px 3px 0px;
+		color:#fff;
+		
+	}
+	.down{
+		margin-bottom:-20px;
+	}
+	.cont li,a:hover{
+		text-decoration:none;
+	}
+	.cont li,a:hover{
+		color:#fff;
+	}
+	footer{
+		background:#B22222;
+		padding-top:-30!important;
+	}
